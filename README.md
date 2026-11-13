@@ -62,4 +62,4 @@ Yes, using a managed service instead of an owned service moves the responsibilit
 ## Acknowledgements
 - https://www.rabbitmq.com/docs/install-kubernetes-diy
 - https://www.rabbitmq.com/docs/install-kubernetes-diy
-
+- Had AI help create the sample extension part to the YAML
